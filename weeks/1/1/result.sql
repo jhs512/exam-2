@@ -3,3 +3,6 @@ CRETA DATABASE mega_shop;
 USE mega_shop;
 
 # 정답을 적어주세요.
+CREATE TABLE products_product (
+  
+);
